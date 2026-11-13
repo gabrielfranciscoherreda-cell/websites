@@ -1,4 +1,4 @@
-# User manual
+com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS.# User manual
 
 [[toc]]
 
